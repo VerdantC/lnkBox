@@ -11,16 +11,6 @@ lnkBox provides convenient link collection and categorization features.
 
 
 
-- 📚**VirusTotal false positive:** 
-
-There may be false positives in virus detection. 
-
-If this happens, please add Puroll.exe to the whitelist. 
-
-
-
-
-
 ## 📖Build
 
 
