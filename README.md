@@ -6,7 +6,7 @@
 
 lnkBox provides convenient link collection and categorization features.
 
-![Animation9](https://github.com/VerdantC/lnkBox/assets/134343920/c80f1046-c5a3-4efd-99b1-823f21f9f784)
+![Animation9](https://github.com/VerdantC/lnkBox/assets/134343920/b03f38f1-4727-4562-9a1b-9e40f7899960)
 - link collection
 
 
